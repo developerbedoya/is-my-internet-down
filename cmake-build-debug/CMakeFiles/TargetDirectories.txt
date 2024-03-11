@@ -1,0 +1,3 @@
+/home/daniel/repos/pessoal/is-my-internet-down/cmake-build-debug/CMakeFiles/is_my_internet_down.dir
+/home/daniel/repos/pessoal/is-my-internet-down/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniel/repos/pessoal/is-my-internet-down/cmake-build-debug/CMakeFiles/rebuild_cache.dir
